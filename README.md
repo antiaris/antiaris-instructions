@@ -10,8 +10,10 @@
   + ResourceMap
   + HTTP2
 - [ ] 同构 JavaScript
-- [ ] 长耗时监控
+- [ ] 监控
   + heapdump
+  + 内存
+  + 耗时
 - [ ] 崩溃重启
 - [ ] ECMAScript 2015
   + NodeJS 6+
