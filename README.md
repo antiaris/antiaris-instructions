@@ -1,6 +1,6 @@
-# antiaris-instructions
+# ANTIARIS 特性
 
-- [ ] 多 APP 架构，自动路由
+- [x] [多 APP 架构，自动路由](instructions/MODULAR.md)
   + 业务划分 APP
   + 框架不处理路由
 - [ ] 渲染层可拆卸
