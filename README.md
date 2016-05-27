@@ -3,7 +3,7 @@
 - [x] [多 APP 架构，自动路由](instructions/MODULAR.md)
   + 业务划分 APP
   + 框架不处理路由
-- [ ] 渲染层可拆卸
+- [ ] [渲染层可拆卸](instructions/RENDER.md)
   + 支持模板引擎，如 [nunjucks](https://mozilla.github.io/nunjucks/)
   + 支持 React/Angular2 
 - [ ] 独立的静态资源打包系统
